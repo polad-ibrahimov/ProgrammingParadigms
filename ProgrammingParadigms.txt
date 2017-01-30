@@ -1,0 +1,33 @@
+Paradiqma proqramlaşdırma dilində problemin qoyuluşu və həlli üçün nümunə sayılacaq bir vasitədir. 
+Əsas proqramlaşdırma paradiqmaları bir neçə növü var:
+1.	Imperative (əmr)
+2.	Logical (məntiqi)
+3.	Functional (funksional)
+4.	Object-Oriented (obyekt yönümlü)
+1) İmperativ paradiqm hesablaması idarə olunan ardıcıllıq vasitəsilə verilir hansı ki, bu dəyişikliklər adlandırılır və dəyişdirilir. Mərhələlərin sırası mühümdür, çünki mərhələ icra olunanda verilən mərhələlərin mövcud dəyişikliklərin dəyərindən asılı olaraq müxtəlif nəticələri ola bilər.
+2) Məntiqi paradigm vəziyyət barədə müxtəlif məntiqi iddialar bütün tanınmış faktlarla müəyyən olunur. Sonra sual işarəsi qoyulur. Kompyuterin rolu məlumatı və məntiqi nəticəni hesablaması olur.
+Məntiqi paradigm 3 bölməyə ayrılır:
+Anlayışlar və bəyənatlar seriyası hansı kı problemləri müəyyən edir
+Müvafiq faktların hesabatları
+Sual formasında hədəf hesabatlar
+Məntiqi istiqamətləndirilmiş proqramlaşdırmanın üstünlükləri iki yerə ayrılır
+Sistem problemləri həll edir, ona görə də proqramlaşdırma mərhələləri özlərini  minumuma saxlayır.
+Verilmiş proqramın həqiqiliyinin sübutu sadədir.
+3) Funksional paradigma proqramlarda funksiya kimi göstərilir, onlar arqumetləri alır və tək həll qaytarır geri. Həllin qaydası bütövlükdə girişdə əsaslanır.
+Funksional dillər funksional paradiqmada əsaslanaraq yaradılır. Belə dillər proqramçının icazəsilə problemlərin funksional həllərinə icazə verir, birinci sinif obyekt kimi funksiyaları yoxlayır.
+
+Object Oriented Programming
+1. Object
+2. Class
+3. Inheritance
+4. Polymorphism
+5. Abstraction
+6. Encapsulation
+Obyektyönümlü  proqramlaşdırma
+Proqramlaşdırmanın əsas konsepsiyasını obyekt və sinif anlayışı təşkil edir. 
+Hər hansı bir iş görərkən, o işi hissələrə bölüb ayrı-ayrı yerinə yetirmək, sonra o hissələr arasında məntiqi əlaqə qurub yekun nəticəni ortaya çıxarmaq obyekt yönümlü demək olar. Məslən, bir binanı tikəndə onu hissə hissə qruplaşdırıb tikilir və nəticədə obyekt meydana gəlir. Qruplaşdırma nəticəsində sinif anlayışı meydana gəlir. Sinif anlayışını çertiyojlada müqayisə etmək olar. bu çertiyojlar vasitəsilədə obyektlər meydana gəlir.
+Varislik (Inheritance). Yeni elementlərin əlavə edilməsi ilə yeni obyektlər sinfinin təşkil edilməsi. Bu halda bir sinifdə bir neçə sinif birləşdirilə bilər. 
+Polimorfizm (Polymorphism). Bu halda əsas siniflər yeniləri ilə əvəz olunur. Siniflərin interfeysi əvvəlki kimi qalır, parametrlər yığımı fərqlənirlər.
+Abstraksiya(Abstraction). Abstraksiya, bir obyektin müəyyən hissələrini kənar dünyadan xaric etmə əməliyyatıdır. Yəni obyektin, daxili mexanizmini yox, sadəcə funksionallığının təqdim olunmasıdır. Məsələn, Bir paltaryuyan maşının içərisində gedən proseslər bizim üçün maraqlı olmaya bilər. Bütün proseslər kombinasiyası bizə bir neçə düymə ilə təqdim olunur. Biz müvafiq düymələri sıxmaqla obyektdən istifadə edirik. Və yaxud televizorun içərisində gedən proseslər bizə maraqli olmaya bilər. Proqramlaşdırma nöqteyi nəzərdən baxsaq, abstraksiya bir obyektin necə işləməyi ilə maraqlanmayıb, onu sadəcə istifadə etməkdən ibarətdir. 
+İnkapsulyasiya (Encapsulation). İnkapsulyasiya dedikdə, bir obyektin müəyyən hissələrini istifadəçilərdən gizlətmək başa düşülür. İnkapsulyasiya, bir bir sinfin proqramçını maraqlandırmayan hansısa üzvlərini ondan gizlətmək ya da bir sinfin üzvlərinə kənar dünyadan müdaxilə edilməsinin qarşısını almaq məqsədilə instifadə oluna bilər. Məsələn, həvəskar şəkildə paltaryuyan maşının içini açsaq onu yararsız vəziyyətə salarıq. Yəni, bir obyektin hissələrinə kənardan nə cür müdaxilə olunabiləcəyini təyin etməkdir – inkapsulyasiya. İnkapsulyasiya əməliyyatı zamanı açar sözlərdən istifadə olunur. Açar sözlər inkapsulyasiyanın nə zaman istifadə edə biləcəklərini təyin edir. Obyekt yönümlü dillərdə bir sinfin üzvərindəki istifadə hüquqları əsas iki istiqamətdə təsvir olunur: Hamıya açıq (public) və Özəl (private). Bir sinfin hansısa üzvünü public olaraq təyin etməklə, o üzvü proqramın hər yerində istifadə etməyə icazə veririk. Bir sinfin üzvlərini private olaraq təyin etmək, həmin üzvü sadəcə sözügedən sinfin içərisində istifadəyə etməyə icazə veririk. 
+
